@@ -13,3 +13,6 @@
 
 ### 屏幕适配
 [https://github.com/frozenui/frozenui/wiki/%E5%B1%8F%E5%B9%95%E9%80%82%E9%85%8D](https://github.com/frozenui/frozenui/wiki/%E5%B1%8F%E5%B9%95%E9%80%82%E9%85%8D)
+
+### 前端开发规范手册
+[http://zhibimo.com/read/Ashu/front-end-style-guide/](http://zhibimo.com/read/Ashu/front-end-style-guide/)
