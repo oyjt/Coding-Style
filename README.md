@@ -16,3 +16,6 @@
 
 ### 前端开发规范手册
 [http://zhibimo.com/read/Ashu/front-end-style-guide/](http://zhibimo.com/read/Ashu/front-end-style-guide/)
+
+### 中移在线前端资源库
+[http://221.176.67.103:8765/component/index.html](http://221.176.67.103:8765/component/index.html)
