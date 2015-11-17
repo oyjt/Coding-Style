@@ -19,3 +19,6 @@
 
 ### 中移在线前端资源库
 [http://221.176.67.103:8765/component/index.html](http://221.176.67.103:8765/component/index.html)
+
+### JavaScript编码规范
+[http://itmyhome.com/js/](http://itmyhome.com/js/)
