@@ -22,3 +22,6 @@
 
 ### JavaScript编码规范
 [http://itmyhome.com/js/](http://itmyhome.com/js/)
+
+### 移动开发规范
+[http://alloyteam.github.io/Spirit/modules/Standard/index.html](http://alloyteam.github.io/Spirit/modules/Standard/index.html)
