@@ -25,3 +25,6 @@
 
 ### 移动开发规范
 [http://alloyteam.github.io/Spirit/modules/Standard/index.html](http://alloyteam.github.io/Spirit/modules/Standard/index.html)
+
+### JavaScript 开发规范
+[http://www.cnblogs.com/polk6/p/4660195.html](http://www.cnblogs.com/polk6/p/4660195.html)
