@@ -31,3 +31,6 @@
 
 ### 凹凸实验室前端代码规范（推荐）
 [https://guide.aotu.io/](https://guide.aotu.io/)
+
+### code-review之前端代码规范及优化
+[https://juejin.im/post/5f02c8eff265da22c058e050](https://juejin.im/post/5f02c8eff265da22c058e050)
