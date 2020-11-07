@@ -37,3 +37,12 @@
 
 ### 前端开发风格指南
 [https://juejin.im/post/6886545910491250702](https://juejin.im/post/6886545910491250702)
+
+### Airbnb JavaScript 风格指南
+[https://github.com/lin-123/javascript](https://github.com/lin-123/javascript)
+
+### JavaScript 代码规范，自带 linter & 代码自动修正
+[https://github.com/standard/standard/blob/master/docs/README-zhcn.md](https://github.com/standard/standard/blob/master/docs/README-zhcn.md)
+
+### 百度前端编码规范
+[https://github.com/ecomfe/spec](https://github.com/ecomfe/spec)
