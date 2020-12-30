@@ -46,3 +46,6 @@
 
 ### 百度前端编码规范
 [https://github.com/ecomfe/spec](https://github.com/ecomfe/spec)
+
+### Vue风格指南
+[https://cn.vuejs.org/v2/style-guide/index.html](https://cn.vuejs.org/v2/style-guide/index.html)
