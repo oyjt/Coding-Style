@@ -29,7 +29,7 @@
 ### JavaScript 开发规范
 [http://www.cnblogs.com/polk6/p/4660195.html](http://www.cnblogs.com/polk6/p/4660195.html)
 
-### 凹凸实验室前端代码规范（推荐）
+### 凹凸实验室前端代码规范
 [https://guide.aotu.io/](https://guide.aotu.io/)
 
 ### code-review之前端代码规范及优化
@@ -49,3 +49,6 @@
 
 ### Vue风格指南
 [https://cn.vuejs.org/v2/style-guide/index.html](https://cn.vuejs.org/v2/style-guide/index.html)
+
+### 腾讯 AlloyTeam开发配置
+[https://github.com/AlloyTeam/eslint-config-alloy/blob/master/README.zh-CN.md](https://github.com/AlloyTeam/eslint-config-alloy/blob/master/README.zh-CN.md)
